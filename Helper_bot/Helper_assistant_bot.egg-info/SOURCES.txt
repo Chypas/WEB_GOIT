@@ -1,0 +1,16 @@
+LICENSE
+README.md
+setup.py
+Helper/__init__.py
+Helper/address_book.py
+Helper/bot.py
+Helper/classes.py
+Helper/helper.py
+Helper/notes.py
+Helper/sort.py
+Helper/translate.py
+Helper_assistant_bot.egg-info/PKG-INFO
+Helper_assistant_bot.egg-info/SOURCES.txt
+Helper_assistant_bot.egg-info/dependency_links.txt
+Helper_assistant_bot.egg-info/entry_points.txt
+Helper_assistant_bot.egg-info/top_level.txt
