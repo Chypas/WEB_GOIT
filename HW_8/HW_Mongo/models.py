@@ -1,6 +1,6 @@
 from mongoengine import *
 
-connect(host="mongodb+srv://chypa:Chypa1990@goitdb.ewrnrcn.mongodb.net/test")
+connect(host="mongodb+srv://chypa:---------@goitdb.ewrnrcn.mongodb.net/test")
 
 
 class Authors(Document):
