@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "fast-api"
+version = "0.1.0"
+description = ""
+authors = ["Ovcharenko_Roman"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+fastapi = {extras = ["all"], version = "^0.95.1"}
+uvicorn = {extras = ["standard"], version = "^0.22.0"}
+sqlalchemy = "^2.0.12"
+psycopg2 = "^2.9.6"
+alembic = "^1.10.4"
+libgravatar = "^1.0.4"
+python-jose = {extras = ["cryptography"], version = "^3.3.0"}
+passlib = {extras = ["bcrypt"], version = "^1.7.4"}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
